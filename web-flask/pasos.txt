@@ -1,0 +1,3 @@
+como instalar librerias pip install librerias
+lister paquetes pip list 
+para instalar 
